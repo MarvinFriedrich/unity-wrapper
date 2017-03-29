@@ -9,7 +9,7 @@
 - (Android only) before building your apk select the "Generate AndroidManifest.xml file" from the Kiip menu to create an AndroidManifest.xml file
 
 ## Integration instructions for testing the demo scene
-
+xz1pp3rxxz1pp3rxxz1pp3rxxz1pp3rx
 - Import the unitypackage into your project
 - Open the KiipTestScene in Unity
 - Configure your Kiip application information in the inspector for the Kiip GameObject
